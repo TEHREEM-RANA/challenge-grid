@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794450863649,
+      "tag": "0000_challengegrid_initial_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794451186266,
+      "tag": "0001_challengegrid_owner_progress_and_admin_seed",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794451610150,
+      "tag": "0002_preserve_original_signup_admin_rule",
+      "breakpoints": true
+    }
+  ]
+}
